@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 5px;
+    text-align: center;
+}
+body{
+    background-image: url('images/kisspng-mathematics-drawing-royalty-free-sketch-5ada7b8b80d567.4403247415242679155277.png');
+}
+.calculator{
+    width: 350px;
+    height: 320px;
+    background-color: #c0c0c0;
+    box-shadow: 0px 0px 0px 10px #666;
+    border: 5px solid black;
+    border-radius: 10px;
+    margin-top: 13%;
+}
+#display{
+    width: 320px;
+    height: 40px;
+    text-align: center;
+    background-color: rgba(97, 94, 94, 0.705);
+    border:3px solid black;
+    font-size: 18px;
+    left: 2px;
+    top: 2px;
+    color: rgba(0, 0, 0, 0.63);
+}
+.btnTop{
+    color:black;
+    background-color: #6f6f6f;
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+}
+.btnNum {
+    color: white;
+    background-color: black;
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+    }
+    .btnMath {
+    color: white;
+    background-color: rgba(240, 10, 10, 0.829);
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+    }
+    .btnOpps {
+    color: white;
+    background-color: #ff9933;
+    font-size: 14px;
+    margin: auto;
+    width: 50px;
+    height: 25px;
+    }
